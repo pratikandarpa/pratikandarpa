@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Android, ios, Flutter, React Native**
 
-- 📫 How to reach me **pratikandarpa@gmail.com**
 
 - ⚡ Fun fact **I do Yoga And Exercise.**
 
