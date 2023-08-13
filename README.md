@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **Android, ios, Flutter, React Native**
+- 💬 Ask me about **Android, ios, Flutter**
 
 
 - ⚡ Fun fact **I do Yoga And Exercise.**
